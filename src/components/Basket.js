@@ -66,4 +66,4 @@ export default function Basket(props) {
       </div>
     </aside>
   );
-}
+};
